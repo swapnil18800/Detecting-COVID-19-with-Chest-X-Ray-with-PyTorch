@@ -14,7 +14,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src='[https://github.com/swapnil18800/Detecting-COVID-19-with-Chest-X-Ray-with-PyTorch/blob/main/01_Detecting_COVID_19_with_Chest_X_Ray_using_PyTorch.ipynb](https://github.com/swapnil18800/Detecting-COVID-19-with-Chest-X-Ray-with-PyTorch/blob/main/covid%2019%20pytorch.png)' alt="head_image">
+    <img src='https://github.com/swapnil18800/Detecting-COVID-19-with-Chest-X-Ray-with-PyTorch/blob/main/covid%2019%20pytorch.png' alt="head_image">
   </a>
 </p>
 
