@@ -14,7 +14,7 @@
 
 <p align='center'>
   <a href="#">
-    <img src='https://github.com/mohd-faizy/DataScience-Projects/blob/main/Projects_png/09_proj.png?raw=true' alt="head_image">
+    <img src='https://github.com/swapnil18800/Detecting-COVID-19-with-Chest-X-Ray-with-PyTorch/blob/main/01_Detecting_COVID_19_with_Chest_X_Ray_using_PyTorch.ipynb' alt="head_image">
   </a>
 </p>
 
